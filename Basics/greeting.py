@@ -4,13 +4,13 @@ import time
 current_time = (time.strftime('%H:%M:%S'))
 hour = int(time.strftime('%H'))
 print(current_time)
-if (0<=hour<4):
+if 0<=hour<4:
     print("Good late night")
-elif (4<=hour<12):
+elif 4<=hour<12:
     print("Good morning")
-elif (12<=hour<16):
+elif 12<=hour<16:
     print("Good afternoon")
-elif (16<=hour<=20):
+elif 16<=hour<=20:
     print("Good evening")
 else:
     print("Good night")
