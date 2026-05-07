@@ -29,7 +29,8 @@ Python 3
 - Using built-in string methods effectively
 - Understanding indexing and traversal
 - Performing basic validations and formatting
-- Future Improvements
+  
+## Future Improvements
 - Add user input-based string programs
 - Practice advanced string problems
 - Learn regular expressions and pattern matching
