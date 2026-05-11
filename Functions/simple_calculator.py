@@ -1,3 +1,5 @@
+# A mini calculator built using multiple functions to perform arithmetic operations like addition, subtraction, multiplication, and division.
+
 def addition(x,y):
     print("Addition:",x+y)
 def subtraction(x,y):
