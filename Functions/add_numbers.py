@@ -1,3 +1,5 @@
+# A basic function-based program that takes two numbers as input and returns their sum.
+
 def add(x,y):
     return x+y
 
