@@ -1,3 +1,5 @@
+# Separates positive and negative numbers from a list into different lists.
+
 lst = [1,-4,7,-5,4.-5,3,7,-6]
 positive = []
 negative = []
