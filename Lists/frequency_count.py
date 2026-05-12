@@ -1,3 +1,5 @@
+# Counts and displays how many times each unique element appears in a list.
+
 num = [7,9,3,7,9,1,5,1,1,7,3,7,5,2]
 checked = []
 for i in num:
