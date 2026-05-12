@@ -1,3 +1,5 @@
+# Finds the second largest element in a list using loops and conditional logic.
+
 lst = [7,9,3,6,8,1]
 largest = 0
 second = 0 
