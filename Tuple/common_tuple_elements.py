@@ -1,3 +1,5 @@
+# Found common elements between two tuples while avoiding duplicates.
+
 tup1 = (6,8,1,49,12,45,21)
 tup2 = (21,12,45,32,8,76)
 common = []
