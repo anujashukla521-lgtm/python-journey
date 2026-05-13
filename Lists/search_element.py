@@ -1,3 +1,5 @@
+# Checks whether a user-entered number exists in the list.
+
 lst = [7,9,3,6,1,7,8,2,56,23,21,64,97]
 num = int(input("Enter a num: "))
 found = False
