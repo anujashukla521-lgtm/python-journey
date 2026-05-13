@@ -1,3 +1,5 @@
+# Identifies and prints duplicate elements present in a list.
+
 nums = [8,9,4,7,1,8,2,6,3,8,1,5,8,1,5]
 checked = []
 for i in nums:
