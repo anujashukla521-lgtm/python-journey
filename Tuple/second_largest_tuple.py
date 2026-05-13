@@ -1,3 +1,5 @@
+# Implemented logic to identify the second largest value from tuple elements.
+
 tup = (7,8,3,6,9,11,54,23)
 largest = tup[0]
 second = tup[0]
