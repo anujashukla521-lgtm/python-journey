@@ -1,3 +1,5 @@
+# Reverses list elements using slicing and reverse traversal with loops.
+
 nums = [7,8,3,9,1,5]
 print(nums[::-1])          # using slicing
 reverse = []
