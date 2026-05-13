@@ -1,3 +1,5 @@
+# Counted frequency of tuple elements using loops and conditions.
+
 tup = (1,2,3,7,1,5,2)
 checked = []
 for i in tup:
