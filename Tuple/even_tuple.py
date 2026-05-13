@@ -1,3 +1,5 @@
+# Created a tuple containing only even elements from an existing tuple.
+
 tup = (7,9,4,2,12,5,6,2)
 even = []
 for i in tup:
