@@ -1,3 +1,5 @@
+# A formatted profile card generator that displays personal details like name, city, hobby, and favorite language using multi-line f-strings.
+
 name = input("Enter name: ")
 city = input("Enter city: ")
 hobby = input("Enter hobby: ")
