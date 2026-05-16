@@ -1,3 +1,5 @@
+# A temperature conversion program that converts Celsius into Fahrenheit using a function and formatted output.
+
 feh = 0
 cel = 0
 def convertor(temp):
