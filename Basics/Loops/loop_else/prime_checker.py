@@ -1,3 +1,5 @@
+# A Python program that checks whether a number is prime by testing divisibility using a for loop with break and else.
+
 num = int(input("Enter a num: "))
 
 if num<=1:
