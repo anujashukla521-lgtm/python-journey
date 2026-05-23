@@ -1,3 +1,5 @@
+# Validates user input for age by ensuring it is numeric and within a realistic range, handling invalid input using exception handling.
+
 try:
     age = int(input("Enter age: "))
     if age<0:
