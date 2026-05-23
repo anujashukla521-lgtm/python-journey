@@ -1,3 +1,5 @@
+# Performs basic arithmetic operations (+, -, *, /) using user input and handles invalid numbers and division by zero errors.
+
 def addition(a,b):
     return a+b
 
@@ -13,7 +15,7 @@ def division(a,b):
 try:
     num1 = int(input("Enter first number: "))
     num2 = int(input("Enter second number: "))
-    operation = input("Enter operation: ")
+    operation = input("Enter operation(+,-,*,/): ")
     if operation == "+":
         result = addition(num1,num2)
         print(f"Addition of {num1} and {num2} is {result}")
