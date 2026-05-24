@@ -1,3 +1,5 @@
+# Day 24 - A menu-driven Python mini project to manage library books using dictionaries and functions. The program allows users to add books, issue books, return books, view available books, and search for books while updating quantities dynamically. This project helped practice functions, parameter passing, nested dictionaries, loops, and data handling in Python.
+
 books = {}
 def add_book():
     book = input("Enter book name: ")
