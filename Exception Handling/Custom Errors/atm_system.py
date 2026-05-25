@@ -1,3 +1,5 @@
+# Simulates a simple ATM withdrawal process with balance validation and custom error handling for invalid withdrawal amounts.
+
 balance = 5000
 try:
     amount = int(input("Enter amount to withdrawal: "))
