@@ -1,3 +1,5 @@
+# Performs basic arithmetic operations using functions while handling invalid operations, wrong input, and division-by-zero errors.
+
 try:
 
     print("Enter 5 subject marks\n")
