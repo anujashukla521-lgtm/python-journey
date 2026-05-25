@@ -1,3 +1,5 @@
+# Performs division between two numbers while handling invalid input and division-by-zero errors using exception handling.
+
 try:
     num1 = int(input("Enter first number: "))
     num2 = int(input("Enter second number: "))
