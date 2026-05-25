@@ -1,3 +1,5 @@
+# Checks whether a password meets minimum length requirements and raises errors for invalid passwords.
+
 try:
     password = input("Enter password: ")
     if len(password)<8:
