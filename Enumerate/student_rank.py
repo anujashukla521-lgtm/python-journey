@@ -1,3 +1,5 @@
+# Displays student names with numbering starting from 1.
+
 name = ["Neha", "Rohan", "Varun" , "Ankit" , "Riya"]
 for index, student in enumerate(name, start=1):
     print(f"{index}. {student}")
