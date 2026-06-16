@@ -1,3 +1,5 @@
+# A Python OOP application that manages account balance using getters and setters, with validation for deposits, withdrawals, and negative balances.
+
 class BankAccount:
     def __init__(self,balance):
         self.balance = balance
