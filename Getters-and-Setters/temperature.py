@@ -1,3 +1,5 @@
+# A Python OOP program that uses getters and setters to validate temperature values and convert Celsius to Fahrenheit through a computed property.
+
 class Temperature:
     def __init__(self,temp):
         self.temperature = temp
