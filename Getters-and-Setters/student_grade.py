@@ -1,3 +1,5 @@
+# A Python OOP program that validates student grades using getters and setters and calculates letter grades automatically through a computed property.
+
 class Student:
     def __init__(self, name, grade):
         self._name = name
