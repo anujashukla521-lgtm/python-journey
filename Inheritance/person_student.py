@@ -1,3 +1,5 @@
+# A constructor inheritance example using super() where the Student class extends the Person class by adding course details.
+
 class Person:
     def __init__(self,name,age):
         self.name = name
