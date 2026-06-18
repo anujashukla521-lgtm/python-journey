@@ -1,3 +1,5 @@
+# A Python program demonstrating encapsulation using private attributes, getters, setters, and @property decorators to manage and validate student marks.
+
 class Student:
     def __init__(self,name,roll_no,marks):
         self.name = name
