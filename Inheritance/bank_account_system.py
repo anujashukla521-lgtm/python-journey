@@ -1,3 +1,5 @@
+# A bank account management system demonstrating encapsulation with private balance handling, along with deposit and withdrawal operations including validation checks.
+
 class BankAccount:
     def __init__(self,account_holder,account_type,balance):
         self.account_holder = account_holder
