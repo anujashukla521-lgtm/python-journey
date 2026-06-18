@@ -1,3 +1,5 @@
+# A program demonstrating inheritance and protected members (_year), where the Car class inherits common vehicle attributes and adds fuel type information.
+
 class Vehicle:
     def __init__(self,brand,year):
         self.brand = brand
