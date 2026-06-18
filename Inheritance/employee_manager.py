@@ -1,3 +1,5 @@
+# A simple inheritance program where the Manager class inherits properties and methods from the Employee class while adding department-specific information.
+
 class Employee:
     def __init__(self,name,salary):
         self.name = name
