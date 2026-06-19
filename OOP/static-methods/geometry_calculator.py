@@ -1,3 +1,5 @@
+# A utility class that calculates areas of basic geometric shapes using static methods.
+
 class GeometryCalculator:
 
     @staticmethod
