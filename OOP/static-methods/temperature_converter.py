@@ -1,3 +1,5 @@
+# A static-method-based utility class for converting temperatures between Celsius, Fahrenheit, and Kelvin scales.
+
 class TemperatureConvertor:
 
     @staticmethod
