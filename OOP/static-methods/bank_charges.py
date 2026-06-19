@@ -1,3 +1,5 @@
+#  A utility class that calculates simple interest and GST using static methods.
+
 class BankCharges:
 
     @staticmethod
