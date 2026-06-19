@@ -1,3 +1,5 @@
+# A utility class containing static methods to validate number properties such as even/odd and positive/negative checks.
+
 class NumberChecker:
     
     @staticmethod
