@@ -1,3 +1,5 @@
+# A utility class using static methods to perform common string operations including counting vowels, counting characters, and reversing a string.
+
 class StringUtility:
    
 
