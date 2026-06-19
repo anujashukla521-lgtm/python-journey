@@ -1,3 +1,5 @@
+# A utility class demonstrating static methods for performing basic arithmetic operations such as addition, subtraction, and multiplication without creating an object.
+
 class Calculator:
     
     @staticmethod
