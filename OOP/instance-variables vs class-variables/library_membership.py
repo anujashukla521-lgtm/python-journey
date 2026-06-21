@@ -1,3 +1,5 @@
+# A Python program that manages library member records using instance variables for member details and a class variable to maintain the total number of registered members.
+
 class LibraryMember:
     total_members = 0
     def __init__(self,name,member_id):
