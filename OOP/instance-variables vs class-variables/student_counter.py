@@ -1,3 +1,5 @@
+# A Python program demonstrating the use of class variables and instance variables by tracking the total number of student.
+
 class Student:
     total_students = 0
     def __init__(self,name):
