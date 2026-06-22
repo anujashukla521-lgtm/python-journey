@@ -1,3 +1,5 @@
+# A Python program implementing an alternative constructor with a class method to create car objects with predefined default values.
+
 class Car:
     total_cars = 0
     def __init__(self,brand,year):
