@@ -1,3 +1,5 @@
+# A Python program demonstrating an alternative constructor using a class method to create Student objects from a formatted string.
+
 class Student:
     def __init__(self,name,age):
         self.name = name
