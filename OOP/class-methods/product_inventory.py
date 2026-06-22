@@ -1,3 +1,5 @@
+# A Python inventory management program that counts the total number of product objects using class variables and class methods.
+
 class Product:
     total_products = 0
     def __init__(self,product_name,price):
