@@ -1,3 +1,5 @@
+# A Python program that uses a class method to modify a shared class attribute, allowing all library book objects to reflect the updated library name.
+
 class Book:
     library_name = "Central Library"
     def __init__(self,title):
