@@ -1,3 +1,5 @@
+# A Python program that uses a class variable and class method to track and display the total number of employee objects created.
+
 class Employee:
     employee_count = 0
     def __init__(self,name):
