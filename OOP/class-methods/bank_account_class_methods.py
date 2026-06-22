@@ -1,3 +1,5 @@
+# A Python program that demonstrates how class methods can update common bank information shared across multiple account objects.
+
 class BankAccount:
     bank_name = "ABC Bank"
     def __init__(self,account_holder,balance):
