@@ -1,3 +1,5 @@
+# A file categorization tool that scans a directory and groups files based on their extensions such as .py, .txt, and .png.
+
 import os
 
 files = os.listdir("cluttered_folder")
