@@ -1,3 +1,5 @@
+# A simple automation script that creates multiple folders (Day1 to Day10) while checking for existing directories.
+
 import os
 
 for i in range(1, 11):
