@@ -1,3 +1,5 @@
+# A Python utility that automatically renames PNG files inside a folder in sequential order using the OS module.
+
 import os
 
 files = os.listdir("cluttered_folder")
